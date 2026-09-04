@@ -37,6 +37,7 @@ My LeetCode solutions
 ## Database
 |  |
 | ------- |
+| [0262-trips-and-users](https://github.com/Anushka1a/leetcode/tree/master/0262-trips-and-users) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Anushka1a/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1075-project-employees-i](https://github.com/Anushka1a/leetcode/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/Anushka1a/leetcode/tree/master/1084-sales-analysis-iii) |
