@@ -34,4 +34,8 @@ My LeetCode solutions
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Anushka1a/leetcode/tree/master/3903-smallest-stable-index-i) |
+## Database
+|  |
+| ------- |
+| [1211-queries-quality-and-percentage](https://github.com/Anushka1a/leetcode/tree/master/1211-queries-quality-and-percentage) |
 <!---LeetCode Topics End-->
