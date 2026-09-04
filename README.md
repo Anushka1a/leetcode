@@ -37,5 +37,6 @@ My LeetCode solutions
 ## Database
 |  |
 | ------- |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Anushka1a/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1211-queries-quality-and-percentage](https://github.com/Anushka1a/leetcode/tree/master/1211-queries-quality-and-percentage) |
 <!---LeetCode Topics End-->
