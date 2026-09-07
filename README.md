@@ -50,4 +50,12 @@ My LeetCode solutions
 | [1517-find-users-with-valid-e-mails](https://github.com/Anushka1a/leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1693-daily-leads-and-partners](https://github.com/Anushka1a/leetcode/tree/master/1693-daily-leads-and-partners) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Anushka1a/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## String
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/Anushka1a/leetcode/tree/master/0940-distinct-subsequences-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/Anushka1a/leetcode/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
