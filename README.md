@@ -34,6 +34,7 @@ My LeetCode solutions
 | [0077-combinations](https://github.com/Anushka1a/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Anushka1a/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Anushka1a/leetcode/tree/master/0090-subsets-ii) |
+| [1079-letter-tile-possibilities](https://github.com/Anushka1a/leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -64,6 +65,7 @@ My LeetCode solutions
 | ------- |
 | [0344-reverse-string](https://github.com/Anushka1a/leetcode/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Anushka1a/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1079-letter-tile-possibilities](https://github.com/Anushka1a/leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,4 +117,12 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [1079-letter-tile-possibilities](https://github.com/Anushka1a/leetcode/tree/master/1079-letter-tile-possibilities) |
+## Counting
+|  |
+| ------- |
+| [1079-letter-tile-possibilities](https://github.com/Anushka1a/leetcode/tree/master/1079-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
