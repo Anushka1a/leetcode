@@ -6,6 +6,7 @@ My LeetCode solutions
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Anushka1a/leetcode/tree/master/0070-climbing-stairs) |
 | [0507-perfect-number](https://github.com/Anushka1a/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Anushka1a/leetcode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/Anushka1a/leetcode/tree/master/2235-add-two-integers) |
@@ -60,6 +61,7 @@ My LeetCode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Anushka1a/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Anushka1a/leetcode/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/Anushka1a/leetcode/tree/master/0940-distinct-subsequences-ii) |
 ## Recursion
@@ -69,6 +71,7 @@ My LeetCode solutions
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Anushka1a/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Anushka1a/leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
