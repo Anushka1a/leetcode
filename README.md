@@ -67,6 +67,7 @@ My LeetCode solutions
 | [0070-climbing-stairs](https://github.com/Anushka1a/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Anushka1a/leetcode/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/Anushka1a/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -86,4 +87,24 @@ My LeetCode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anushka1a/leetcode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/Anushka1a/leetcode/tree/master/0344-reverse-string) |
+## Tree
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
