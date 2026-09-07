@@ -7,6 +7,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/Anushka1a/leetcode/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/Anushka1a/leetcode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/Anushka1a/leetcode/tree/master/2235-add-two-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anushka1a/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anushka1a/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -58,5 +59,14 @@ My LeetCode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Anushka1a/leetcode/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/Anushka1a/leetcode/tree/master/0940-distinct-subsequences-ii) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Anushka1a/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Anushka1a/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
