@@ -57,6 +57,7 @@ My LeetCode solutions
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Anushka1a/leetcode/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Anushka1a/leetcode/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
 |  |
@@ -77,4 +78,8 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Anushka1a/leetcode/tree/master/0035-search-insert-position) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Anushka1a/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
