@@ -14,6 +14,7 @@ My LeetCode solutions
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Anushka1a/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Anushka1a/leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Anushka1a/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Anushka1a/leetcode/tree/master/0090-subsets-ii) |
@@ -69,4 +70,8 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Anushka1a/leetcode/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Anushka1a/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
