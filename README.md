@@ -99,12 +99,14 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Anushka1a/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Anushka1a/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Anushka1a/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Anushka1a/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
@@ -117,11 +119,13 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Anushka1a/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Anushka1a/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Sorting
 |  |
