@@ -98,18 +98,22 @@ My LeetCode solutions
 ## Tree
 |  |
 | ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Anushka1a/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Anushka1a/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Anushka1a/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Anushka1a/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
 |  |
@@ -119,6 +123,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0088-merge-sorted-array) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Anushka1a/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Hash Table
 |  |
 | ------- |
