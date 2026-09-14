@@ -69,6 +69,7 @@ My LeetCode solutions
 | [0344-reverse-string](https://github.com/Anushka1a/leetcode/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Anushka1a/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1079-letter-tile-possibilities](https://github.com/Anushka1a/leetcode/tree/master/1079-letter-tile-possibilities) |
+| [1745-palindrome-partitioning-iv](https://github.com/Anushka1a/leetcode/tree/master/1745-palindrome-partitioning-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +77,7 @@ My LeetCode solutions
 | [0509-fibonacci-number](https://github.com/Anushka1a/leetcode/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/Anushka1a/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1745-palindrome-partitioning-iv](https://github.com/Anushka1a/leetcode/tree/master/1745-palindrome-partitioning-iv) |
 ## Recursion
 |  |
 | ------- |
