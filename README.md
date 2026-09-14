@@ -100,6 +100,7 @@ My LeetCode solutions
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Anushka1a/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Anushka1a/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -108,6 +109,7 @@ My LeetCode solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Anushka1a/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Anushka1a/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -122,6 +124,7 @@ My LeetCode solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Anushka1a/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Anushka1a/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -150,4 +153,8 @@ My LeetCode solutions
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anushka1a/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
