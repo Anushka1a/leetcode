@@ -8,6 +8,7 @@ My LeetCode solutions
 | ------- |
 | [0066-plus-one](https://github.com/Anushka1a/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Anushka1a/leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Anushka1a/leetcode/tree/master/0189-rotate-array) |
 | [0507-perfect-number](https://github.com/Anushka1a/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Anushka1a/leetcode/tree/master/0509-fibonacci-number) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anushka1a/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -28,6 +29,7 @@ My LeetCode solutions
 | [0088-merge-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Anushka1a/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka1a/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/Anushka1a/leetcode/tree/master/0189-rotate-array) |
 | [0724-find-pivot-index](https://github.com/Anushka1a/leetcode/tree/master/0724-find-pivot-index) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anushka1a/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anushka1a/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -128,6 +130,7 @@ My LeetCode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anushka1a/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Anushka1a/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Anushka1a/leetcode/tree/master/0344-reverse-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anushka1a/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Tree
