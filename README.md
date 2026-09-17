@@ -6,6 +6,7 @@ My LeetCode solutions
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Anushka1a/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Anushka1a/leetcode/tree/master/0070-climbing-stairs) |
 | [0507-perfect-number](https://github.com/Anushka1a/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Anushka1a/leetcode/tree/master/0509-fibonacci-number) |
@@ -22,6 +23,7 @@ My LeetCode solutions
 | [0027-remove-element](https://github.com/Anushka1a/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Anushka1a/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Anushka1a/leetcode/tree/master/0039-combination-sum) |
+| [0066-plus-one](https://github.com/Anushka1a/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Anushka1a/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Anushka1a/leetcode/tree/master/0090-subsets-ii) |
