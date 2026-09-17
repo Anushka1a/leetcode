@@ -70,6 +70,7 @@ My LeetCode solutions
 | [1251-average-selling-price](https://github.com/Anushka1a/leetcode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Anushka1a/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Anushka1a/leetcode/tree/master/1517-find-users-with-valid-e-mails) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Anushka1a/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1693-daily-leads-and-partners](https://github.com/Anushka1a/leetcode/tree/master/1693-daily-leads-and-partners) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Anushka1a/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## String
