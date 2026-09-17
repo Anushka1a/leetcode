@@ -74,6 +74,7 @@ My LeetCode solutions
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Anushka1a/leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/Anushka1a/leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Anushka1a/leetcode/tree/master/1251-average-selling-price) |
+| [1341-movie-rating](https://github.com/Anushka1a/leetcode/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Anushka1a/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Anushka1a/leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Anushka1a/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
