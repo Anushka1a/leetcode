@@ -65,6 +65,7 @@ My LeetCode solutions
 | [0596-classes-with-at-least-5-students](https://github.com/Anushka1a/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0608-tree-node](https://github.com/Anushka1a/leetcode/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/Anushka1a/leetcode/tree/master/0610-triangle-judgement) |
+| [0626-exchange-seats](https://github.com/Anushka1a/leetcode/tree/master/0626-exchange-seats) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Anushka1a/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1075-project-employees-i](https://github.com/Anushka1a/leetcode/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/Anushka1a/leetcode/tree/master/1084-sales-analysis-iii) |
