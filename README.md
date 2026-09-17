@@ -67,6 +67,7 @@ My LeetCode solutions
 | [1075-project-employees-i](https://github.com/Anushka1a/leetcode/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/Anushka1a/leetcode/tree/master/1084-sales-analysis-iii) |
 | [1211-queries-quality-and-percentage](https://github.com/Anushka1a/leetcode/tree/master/1211-queries-quality-and-percentage) |
+| [1251-average-selling-price](https://github.com/Anushka1a/leetcode/tree/master/1251-average-selling-price) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Anushka1a/leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1693-daily-leads-and-partners](https://github.com/Anushka1a/leetcode/tree/master/1693-daily-leads-and-partners) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Anushka1a/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
