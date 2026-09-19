@@ -34,6 +34,7 @@ My LeetCode solutions
 | [0724-find-pivot-index](https://github.com/Anushka1a/leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anushka1a/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anushka1a/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anushka1a/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anushka1a/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anushka1a/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -180,6 +181,7 @@ My LeetCode solutions
 | [0088-merge-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Anushka1a/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anushka1a/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
 |  |
 | ------- |
