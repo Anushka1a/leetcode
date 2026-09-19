@@ -6,6 +6,7 @@ My LeetCode solutions
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Anushka1a/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Anushka1a/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Anushka1a/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anushka1a/leetcode/tree/master/0189-rotate-array) |
