@@ -49,6 +49,7 @@ My LeetCode solutions
 | [0077-combinations](https://github.com/Anushka1a/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Anushka1a/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Anushka1a/leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Anushka1a/leetcode/tree/master/0131-palindrome-partitioning) |
 | [1079-letter-tile-possibilities](https://github.com/Anushka1a/leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Bit Manipulation
 |  |
@@ -101,6 +102,7 @@ My LeetCode solutions
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Anushka1a/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/Anushka1a/leetcode/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Anushka1a/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1079-letter-tile-possibilities](https://github.com/Anushka1a/leetcode/tree/master/1079-letter-tile-possibilities) |
@@ -112,6 +114,7 @@ My LeetCode solutions
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anushka1a/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka1a/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Anushka1a/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Anushka1a/leetcode/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/Anushka1a/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
