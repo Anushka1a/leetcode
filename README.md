@@ -33,6 +33,7 @@ My LeetCode solutions
 | [0088-merge-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Anushka1a/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka1a/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Anushka1a/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anushka1a/leetcode/tree/master/0140-word-break-ii) |
 | [0189-rotate-array](https://github.com/Anushka1a/leetcode/tree/master/0189-rotate-array) |
 | [0724-find-pivot-index](https://github.com/Anushka1a/leetcode/tree/master/0724-find-pivot-index) |
@@ -109,6 +110,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Anushka1a/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Anushka1a/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anushka1a/leetcode/tree/master/0140-word-break-ii) |
 | [0344-reverse-string](https://github.com/Anushka1a/leetcode/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Anushka1a/leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -122,6 +124,7 @@ My LeetCode solutions
 | [0070-climbing-stairs](https://github.com/Anushka1a/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka1a/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Anushka1a/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Anushka1a/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anushka1a/leetcode/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/Anushka1a/leetcode/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/Anushka1a/leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -139,6 +142,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anushka1a/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Anushka1a/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anushka1a/leetcode/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/Anushka1a/leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
@@ -205,6 +209,7 @@ My LeetCode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Anushka1a/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anushka1a/leetcode/tree/master/0140-word-break-ii) |
 | [1079-letter-tile-possibilities](https://github.com/Anushka1a/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anushka1a/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -250,5 +255,10 @@ My LeetCode solutions
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Anushka1a/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anushka1a/leetcode/tree/master/0140-word-break-ii) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Anushka1a/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
