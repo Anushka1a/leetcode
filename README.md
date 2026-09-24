@@ -42,6 +42,7 @@ My LeetCode solutions
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anushka1a/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anushka1a/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anushka1a/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1929-concatenation-of-array](https://github.com/Anushka1a/leetcode/tree/master/1929-concatenation-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anushka1a/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/Anushka1a/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anushka1a/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -249,6 +250,7 @@ My LeetCode solutions
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/Anushka1a/leetcode/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anushka1a/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
