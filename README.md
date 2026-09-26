@@ -103,6 +103,7 @@ My LeetCode solutions
 | [1070-product-sales-analysis-iii](https://github.com/Anushka1a/leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/Anushka1a/leetcode/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/Anushka1a/leetcode/tree/master/1084-sales-analysis-iii) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Anushka1a/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Anushka1a/leetcode/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/Anushka1a/leetcode/tree/master/1193-monthly-transactions-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Anushka1a/leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
