@@ -118,6 +118,7 @@ My LeetCode solutions
 | [1661-average-time-of-process-per-machine](https://github.com/Anushka1a/leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Anushka1a/leetcode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Anushka1a/leetcode/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/Anushka1a/leetcode/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Anushka1a/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Anushka1a/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/Anushka1a/leetcode/tree/master/1789-primary-department-for-each-employee) |
