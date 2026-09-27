@@ -133,6 +133,7 @@ My LeetCode solutions
 | [0940-distinct-subsequences-ii](https://github.com/Anushka1a/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1079-letter-tile-possibilities](https://github.com/Anushka1a/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1096-brace-expansion-ii](https://github.com/Anushka1a/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anushka1a/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1745-palindrome-partitioning-iv](https://github.com/Anushka1a/leetcode/tree/master/1745-palindrome-partitioning-iv) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anushka1a/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anushka1a/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -287,4 +288,9 @@ My LeetCode solutions
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Anushka1a/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anushka1a/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anushka1a/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
