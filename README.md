@@ -57,6 +57,7 @@ My LeetCode solutions
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Anushka1a/leetcode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/Anushka1a/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Anushka1a/leetcode/tree/master/0078-subsets) |
@@ -144,6 +145,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Anushka1a/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Anushka1a/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anushka1a/leetcode/tree/master/0140-word-break-ii) |
@@ -160,6 +162,7 @@ My LeetCode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Anushka1a/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka1a/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Anushka1a/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -318,6 +321,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anushka1a/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anushka1a/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anushka1a/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
