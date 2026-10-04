@@ -151,6 +151,7 @@ My LeetCode solutions
 | [0139-word-break](https://github.com/Anushka1a/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anushka1a/leetcode/tree/master/0140-word-break-ii) |
 | [0344-reverse-string](https://github.com/Anushka1a/leetcode/tree/master/0344-reverse-string) |
+| [0678-valid-parenthesis-string](https://github.com/Anushka1a/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Anushka1a/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1079-letter-tile-possibilities](https://github.com/Anushka1a/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1096-brace-expansion-ii](https://github.com/Anushka1a/leetcode/tree/master/1096-brace-expansion-ii) |
@@ -171,6 +172,7 @@ My LeetCode solutions
 | [0139-word-break](https://github.com/Anushka1a/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anushka1a/leetcode/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/Anushka1a/leetcode/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Anushka1a/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Anushka1a/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anushka1a/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -279,6 +281,7 @@ My LeetCode solutions
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Anushka1a/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anushka1a/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
@@ -316,6 +319,7 @@ My LeetCode solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Anushka1a/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/Anushka1a/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anushka1a/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anushka1a/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -326,6 +330,7 @@ My LeetCode solutions
 | [0020-valid-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Anushka1a/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anushka1a/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anushka1a/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anushka1a/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
