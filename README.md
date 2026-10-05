@@ -151,6 +151,7 @@ My LeetCode solutions
 | [0139-word-break](https://github.com/Anushka1a/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anushka1a/leetcode/tree/master/0140-word-break-ii) |
 | [0344-reverse-string](https://github.com/Anushka1a/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Anushka1a/leetcode/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Anushka1a/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Anushka1a/leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -172,6 +173,7 @@ My LeetCode solutions
 | [0131-palindrome-partitioning](https://github.com/Anushka1a/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Anushka1a/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anushka1a/leetcode/tree/master/0140-word-break-ii) |
+| [0392-is-subsequence](https://github.com/Anushka1a/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Anushka1a/leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Anushka1a/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Anushka1a/leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -207,6 +209,7 @@ My LeetCode solutions
 | [0088-merge-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Anushka1a/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Anushka1a/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Anushka1a/leetcode/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anushka1a/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Tree
