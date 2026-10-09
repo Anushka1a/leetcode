@@ -10,6 +10,7 @@ My LeetCode solutions
 | [0066-plus-one](https://github.com/Anushka1a/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Anushka1a/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anushka1a/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Anushka1a/leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Anushka1a/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Anushka1a/leetcode/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Anushka1a/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -37,6 +38,7 @@ My LeetCode solutions
 | [0139-word-break](https://github.com/Anushka1a/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anushka1a/leetcode/tree/master/0140-word-break-ii) |
 | [0189-rotate-array](https://github.com/Anushka1a/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Anushka1a/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Anushka1a/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Anushka1a/leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Anushka1a/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -74,6 +76,7 @@ My LeetCode solutions
 | ------- |
 | [0078-subsets](https://github.com/Anushka1a/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Anushka1a/leetcode/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/Anushka1a/leetcode/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -206,6 +209,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Anushka1a/leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Anushka1a/leetcode/tree/master/0268-missing-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anushka1a/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anushka1a/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
@@ -261,6 +265,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Anushka1a/leetcode/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Anushka1a/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/Anushka1a/leetcode/tree/master/1096-brace-expansion-ii) |
@@ -271,6 +276,7 @@ My LeetCode solutions
 | ------- |
 | [0139-word-break](https://github.com/Anushka1a/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anushka1a/leetcode/tree/master/0140-word-break-ii) |
+| [0268-missing-number](https://github.com/Anushka1a/leetcode/tree/master/0268-missing-number) |
 | [1079-letter-tile-possibilities](https://github.com/Anushka1a/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1096-brace-expansion-ii](https://github.com/Anushka1a/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anushka1a/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
