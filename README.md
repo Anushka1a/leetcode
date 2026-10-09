@@ -46,6 +46,7 @@ My LeetCode solutions
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anushka1a/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1470-shuffle-the-array](https://github.com/Anushka1a/leetcode/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anushka1a/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/Anushka1a/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anushka1a/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anushka1a/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1920-build-array-from-permutation](https://github.com/Anushka1a/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -82,6 +83,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Anushka1a/leetcode/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/Anushka1a/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anushka1a/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anushka1a/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2485-find-the-pivot-integer](https://github.com/Anushka1a/leetcode/tree/master/2485-find-the-pivot-integer) |
