@@ -51,6 +51,7 @@ My LeetCode solutions
 | [0977-squares-of-a-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anushka1a/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anushka1a/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anushka1a/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Anushka1a/leetcode/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anushka1a/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Anushka1a/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -292,6 +293,7 @@ My LeetCode solutions
 | [0977-squares-of-a-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/Anushka1a/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Anushka1a/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anushka1a/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anushka1a/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anushka1a/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
@@ -303,6 +305,7 @@ My LeetCode solutions
 | [0645-set-mismatch](https://github.com/Anushka1a/leetcode/tree/master/0645-set-mismatch) |
 | [1079-letter-tile-possibilities](https://github.com/Anushka1a/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1096-brace-expansion-ii](https://github.com/Anushka1a/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anushka1a/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anushka1a/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anushka1a/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anushka1a/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -432,4 +435,8 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Anushka1a/leetcode/tree/master/0319-bulb-switcher) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anushka1a/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
