@@ -44,6 +44,7 @@ My LeetCode solutions
 | [0140-word-break-ii](https://github.com/Anushka1a/leetcode/tree/master/0140-word-break-ii) |
 | [0189-rotate-array](https://github.com/Anushka1a/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Anushka1a/leetcode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anushka1a/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Anushka1a/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Anushka1a/leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Anushka1a/leetcode/tree/master/0724-find-pivot-index) |
@@ -302,6 +303,7 @@ My LeetCode solutions
 | [0139-word-break](https://github.com/Anushka1a/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anushka1a/leetcode/tree/master/0140-word-break-ii) |
 | [0268-missing-number](https://github.com/Anushka1a/leetcode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anushka1a/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Anushka1a/leetcode/tree/master/0645-set-mismatch) |
 | [1079-letter-tile-possibilities](https://github.com/Anushka1a/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1096-brace-expansion-ii](https://github.com/Anushka1a/leetcode/tree/master/1096-brace-expansion-ii) |
