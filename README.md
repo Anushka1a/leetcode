@@ -32,6 +32,7 @@ My LeetCode solutions
 | [0035-search-insert-position](https://github.com/Anushka1a/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Anushka1a/leetcode/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/Anushka1a/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Anushka1a/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Anushka1a/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Anushka1a/leetcode/tree/master/0090-subsets-ii) |
@@ -224,6 +225,7 @@ My LeetCode solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anushka1a/leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Anushka1a/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Anushka1a/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Anushka1a/leetcode/tree/master/0344-reverse-string) |
@@ -271,6 +273,7 @@ My LeetCode solutions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Anushka1a/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Anushka1a/leetcode/tree/master/0147-insertion-sort-list) |
 | [0268-missing-number](https://github.com/Anushka1a/leetcode/tree/master/0268-missing-number) |
@@ -390,4 +393,12 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Anushka1a/leetcode/tree/master/0147-insertion-sort-list) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Anushka1a/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Anushka1a/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
