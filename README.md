@@ -35,6 +35,7 @@ My LeetCode solutions
 | [0066-plus-one](https://github.com/Anushka1a/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Anushka1a/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Anushka1a/leetcode/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Anushka1a/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Anushka1a/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka1a/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -366,6 +367,7 @@ My LeetCode solutions
 | [0020-valid-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anushka1a/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Anushka1a/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0678-valid-parenthesis-string](https://github.com/Anushka1a/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anushka1a/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -420,4 +422,9 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anushka1a/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Anushka1a/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Anushka1a/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
