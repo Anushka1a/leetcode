@@ -159,6 +159,7 @@ My LeetCode solutions
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anushka1a/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0032-longest-valid-parentheses) |
@@ -185,6 +186,7 @@ My LeetCode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anushka1a/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Anushka1a/leetcode/tree/master/0070-climbing-stairs) |
@@ -225,6 +227,7 @@ My LeetCode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anushka1a/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anushka1a/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Anushka1a/leetcode/tree/master/0075-sort-colors) |
@@ -405,4 +408,8 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Anushka1a/leetcode/tree/master/0075-sort-colors) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anushka1a/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
