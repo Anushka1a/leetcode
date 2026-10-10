@@ -11,6 +11,7 @@ My LeetCode solutions
 | [0070-climbing-stairs](https://github.com/Anushka1a/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anushka1a/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Anushka1a/leetcode/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/Anushka1a/leetcode/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/Anushka1a/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Anushka1a/leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anushka1a/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -427,4 +428,8 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anushka1a/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Anushka1a/leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
