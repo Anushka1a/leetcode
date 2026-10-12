@@ -10,6 +10,7 @@ My LeetCode solutions
 | [0066-plus-one](https://github.com/Anushka1a/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Anushka1a/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anushka1a/leetcode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Anushka1a/leetcode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Anushka1a/leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Anushka1a/leetcode/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/Anushka1a/leetcode/tree/master/0507-perfect-number) |
@@ -174,6 +175,7 @@ My LeetCode solutions
 | [0131-palindrome-partitioning](https://github.com/Anushka1a/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Anushka1a/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anushka1a/leetcode/tree/master/0140-word-break-ii) |
+| [0224-basic-calculator](https://github.com/Anushka1a/leetcode/tree/master/0224-basic-calculator) |
 | [0301-remove-invalid-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Anushka1a/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Anushka1a/leetcode/tree/master/0392-is-subsequence) |
@@ -216,6 +218,7 @@ My LeetCode solutions
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Anushka1a/leetcode/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/Anushka1a/leetcode/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anushka1a/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
@@ -379,6 +382,7 @@ My LeetCode solutions
 | [0032-longest-valid-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anushka1a/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anushka1a/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0224-basic-calculator](https://github.com/Anushka1a/leetcode/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/Anushka1a/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anushka1a/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
