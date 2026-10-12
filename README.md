@@ -40,6 +40,7 @@ My LeetCode solutions
 | [0088-merge-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Anushka1a/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka1a/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/Anushka1a/leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Anushka1a/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anushka1a/leetcode/tree/master/0140-word-break-ii) |
 | [0189-rotate-array](https://github.com/Anushka1a/leetcode/tree/master/0189-rotate-array) |
@@ -333,6 +334,7 @@ My LeetCode solutions
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Anushka1a/leetcode/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/Anushka1a/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anushka1a/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anushka1a/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
