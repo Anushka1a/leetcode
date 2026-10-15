@@ -68,6 +68,7 @@ My LeetCode solutions
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anushka1a/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anushka1a/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anushka1a/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anushka1a/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anushka1a/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/Anushka1a/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anushka1a/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -320,6 +321,7 @@ My LeetCode solutions
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anushka1a/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anushka1a/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anushka1a/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anushka1a/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anushka1a/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting
 |  |
@@ -370,6 +372,7 @@ My LeetCode solutions
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anushka1a/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Anushka1a/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Trie
 |  |
@@ -456,4 +459,8 @@ My LeetCode solutions
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anushka1a/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anushka1a/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
