@@ -284,6 +284,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0207-course-schedule](https://github.com/Anushka1a/leetcode/tree/master/0207-course-schedule) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Anushka1a/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Anushka1a/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -361,6 +362,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0207-course-schedule](https://github.com/Anushka1a/leetcode/tree/master/0207-course-schedule) |
 | [0301-remove-invalid-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0994-rotting-oranges](https://github.com/Anushka1a/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anushka1a/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -506,4 +508,16 @@ My LeetCode solutions
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Anushka1a/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Anushka1a/leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Anushka1a/leetcode/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Anushka1a/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
