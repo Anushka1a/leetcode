@@ -56,6 +56,7 @@ My LeetCode solutions
 | [0724-find-pivot-index](https://github.com/Anushka1a/leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Anushka1a/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/Anushka1a/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anushka1a/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anushka1a/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anushka1a/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -361,6 +362,7 @@ My LeetCode solutions
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0994-rotting-oranges](https://github.com/Anushka1a/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anushka1a/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/Anushka1a/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Anushka1a/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -445,6 +447,7 @@ My LeetCode solutions
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/Anushka1a/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anushka1a/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Anushka1a/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Anushka1a/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
