@@ -86,6 +86,7 @@ My LeetCode solutions
 | [3886-sum-of-sortable-integers](https://github.com/Anushka1a/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Anushka1a/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Anushka1a/leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Anushka1a/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Backtracking
 |  |
 | ------- |
