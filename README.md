@@ -31,6 +31,7 @@ My LeetCode solutions
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Anushka1a/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anushka1a/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Anushka1a/leetcode/tree/master/0035-search-insert-position) |
@@ -253,6 +254,7 @@ My LeetCode solutions
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Anushka1a/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Anushka1a/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Anushka1a/leetcode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Anushka1a/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -506,6 +508,7 @@ My LeetCode solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Anushka1a/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Anushka1a/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
