@@ -81,6 +81,7 @@ My LeetCode solutions
 | [3525-find-x-value-of-array-ii](https://github.com/Anushka1a/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anushka1a/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anushka1a/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Anushka1a/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anushka1a/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anushka1a/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anushka1a/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -108,6 +109,7 @@ My LeetCode solutions
 | [0090-subsets-ii](https://github.com/Anushka1a/leetcode/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Anushka1a/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Anushka1a/leetcode/tree/master/0645-set-mismatch) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Anushka1a/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Prefix Sum
 |  |
 | ------- |
