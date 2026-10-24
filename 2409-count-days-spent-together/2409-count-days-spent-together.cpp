@@ -22,14 +22,13 @@ public:
         int b1 = dateToDay(arriveBob);
         int b2 = dateToDay(leaveBob);
 
-        int count = 0;
+        int start = max(a1, b1);
+        int end = min(a2, b2);
 
-        for (int day = a1; day <= a2; day++) {
-            if (day >= b1 && day <= b2) {
-                count++;
-            }
+        if (start > end) {
+            return 0;
         }
 
-        return count;
+        return end - start + 1;
     }
 };
