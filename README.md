@@ -55,6 +55,7 @@ My LeetCode solutions
 | [0410-split-array-largest-sum](https://github.com/Anushka1a/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anushka1a/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Anushka1a/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Anushka1a/leetcode/tree/master/0494-target-sum) |
 | [0645-set-mismatch](https://github.com/Anushka1a/leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Anushka1a/leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Anushka1a/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -103,6 +104,7 @@ My LeetCode solutions
 | [0131-palindrome-partitioning](https://github.com/Anushka1a/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Anushka1a/leetcode/tree/master/0140-word-break-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/Anushka1a/leetcode/tree/master/0494-target-sum) |
 | [1079-letter-tile-possibilities](https://github.com/Anushka1a/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1096-brace-expansion-ii](https://github.com/Anushka1a/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Bit Manipulation
@@ -230,6 +232,7 @@ My LeetCode solutions
 | [0198-house-robber](https://github.com/Anushka1a/leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Anushka1a/leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Anushka1a/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/Anushka1a/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Anushka1a/leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Anushka1a/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Anushka1a/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -544,4 +547,12 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Anushka1a/leetcode/tree/master/0239-sliding-window-maximum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Anushka1a/leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Anushka1a/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
