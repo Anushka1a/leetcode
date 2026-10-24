@@ -58,6 +58,7 @@ My LeetCode solutions
 | [0645-set-mismatch](https://github.com/Anushka1a/leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Anushka1a/leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Anushka1a/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Anushka1a/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Anushka1a/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anushka1a/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -231,6 +232,7 @@ My LeetCode solutions
 | [0410-split-array-largest-sum](https://github.com/Anushka1a/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Anushka1a/leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Anushka1a/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Anushka1a/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/Anushka1a/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anushka1a/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -382,6 +384,7 @@ My LeetCode solutions
 | [0135-candy](https://github.com/Anushka1a/leetcode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Anushka1a/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Anushka1a/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Anushka1a/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anushka1a/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anushka1a/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anushka1a/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -467,6 +470,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Anushka1a/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Anushka1a/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anushka1a/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Linked List
 |  |
