@@ -12,6 +12,7 @@ My LeetCode solutions
 | [0189-rotate-array](https://github.com/Anushka1a/leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Anushka1a/leetcode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Anushka1a/leetcode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Anushka1a/leetcode/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Anushka1a/leetcode/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/Anushka1a/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Anushka1a/leetcode/tree/master/0509-fibonacci-number) |
@@ -231,6 +232,7 @@ My LeetCode solutions
 | [0139-word-break](https://github.com/Anushka1a/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anushka1a/leetcode/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Anushka1a/leetcode/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Anushka1a/leetcode/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/Anushka1a/leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Anushka1a/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/Anushka1a/leetcode/tree/master/0494-target-sum) |
@@ -378,6 +380,7 @@ My LeetCode solutions
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anushka1a/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Anushka1a/leetcode/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/Anushka1a/leetcode/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/Anushka1a/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0994-rotting-oranges](https://github.com/Anushka1a/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anushka1a/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -555,9 +558,14 @@ My LeetCode solutions
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Anushka1a/leetcode/tree/master/0279-perfect-squares) |
 | [0494-target-sum](https://github.com/Anushka1a/leetcode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Anushka1a/leetcode/tree/master/0494-target-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Anushka1a/leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
