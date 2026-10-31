@@ -90,6 +90,7 @@ My LeetCode solutions
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anushka1a/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anushka1a/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Anushka1a/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Anushka1a/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Anushka1a/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anushka1a/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Anushka1a/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -256,6 +257,7 @@ My LeetCode solutions
 | [1745-palindrome-partitioning-iv](https://github.com/Anushka1a/leetcode/tree/master/1745-palindrome-partitioning-iv) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anushka1a/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anushka1a/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3665-twisted-mirror-path-count](https://github.com/Anushka1a/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Anushka1a/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
@@ -493,6 +495,7 @@ My LeetCode solutions
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Anushka1a/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anushka1a/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anushka1a/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Anushka1a/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Anushka1a/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
