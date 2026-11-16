@@ -238,6 +238,7 @@ My LeetCode solutions
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anushka1a/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anushka1a/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1745-palindrome-partitioning-iv](https://github.com/Anushka1a/leetcode/tree/master/1745-palindrome-partitioning-iv) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Anushka1a/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Anushka1a/leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anushka1a/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anushka1a/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -460,6 +461,7 @@ My LeetCode solutions
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Anushka1a/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anushka1a/leetcode/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Anushka1a/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anushka1a/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
