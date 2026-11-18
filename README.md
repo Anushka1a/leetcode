@@ -40,6 +40,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anushka1a/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Anushka1a/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anushka1a/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Anushka1a/leetcode/tree/master/0035-search-insert-position) |
@@ -309,6 +310,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anushka1a/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Anushka1a/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anushka1a/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Anushka1a/leetcode/tree/master/0042-trapping-rain-water) |
@@ -370,6 +372,7 @@ My LeetCode solutions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Anushka1a/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Anushka1a/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anushka1a/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Anushka1a/leetcode/tree/master/0147-insertion-sort-list) |
