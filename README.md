@@ -122,6 +122,7 @@ My LeetCode solutions
 | [3903-smallest-stable-index-i](https://github.com/Anushka1a/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Anushka1a/leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Anushka1a/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Anushka1a/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -291,6 +292,7 @@ My LeetCode solutions
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Anushka1a/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Anushka1a/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Anushka1a/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Anushka1a/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Recursion
 |  |
 | ------- |
@@ -467,6 +469,7 @@ My LeetCode solutions
 | [3689-maximum-total-subarray-value-i](https://github.com/Anushka1a/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anushka1a/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Anushka1a/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Anushka1a/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Combinatorics
 |  |
 | ------- |
